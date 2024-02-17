@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+body {
+    background: #b7cffe
+    ;
+}
+
+#Maze {
+    height: 150px;
+    width: 150px;
+    border: 5px solid lightseagreen;
+    top: -50px;
+    cursor:pointer;
+}
+
+#TicTacToe {
+    height: 150px;
+    width: 150px;
+    border: 5px solid lightseagreen;
+    top: -50px;
+    cursor:pointer;
+   
+}
+
+#MemoryCards {
+    height: 150px;
+    width: 150px;
+    border: 5px solid lightseagreen;
+    top: -100px;
+    cursor:pointer;
+}
+
+#HangMan {
+        height: 150px;
+        width: 150px;
+        border: 5px solid lightseagreen;
+        top: -100px;
+        cursor:pointer;
+        margin-top: 50px;
+    }
+
+ #MinesSweeper {
+        height: 150px;
+        width: 150px;
+        border: 5px solid lightseagreen;
+        top: -100px;
+        cursor:pointer;
+    }
+
+   #SlidePuzzle {
+        height: 150px;
+        width: 150px;
+        border: 5px solid lightseagreen;
+        top: -100px;
+        margin-top: 50px;
+        cursor:pointer;
+    }
+
+ #WordScramble {
+        height: 150px;
+        width: 150px;
+        border: 5px solid lightseagreen;
+        top: -100px;
+        margin-top: 50px;
+        cursor:pointer;
+    }
+
+#WordScramble {
+        height: 150px;
+        width: 150px;
+        border: 5px solid lightseagreen;
+        top: -100px;
+        margin-top: 200px
+    }
+
+#Pong {
+        height: 150px;
+        width: 150px;
+        border: 5px solid lightseagreen;
+        top: 50px;
+        margin-top: 200px
+ }   
+
+ #Snake {
+    height: 150px;
+    width: 150px;
+    border: 5px solid lightseagreen;
+    top: 50px;
+    margin-top: 200px
+}    
